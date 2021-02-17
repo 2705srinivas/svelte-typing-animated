@@ -1,6 +1,6 @@
 {
   "name": "svelte-typing-animated",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "srinivasb",
   "description": "Svelte component for typing animation.",
   "main": "dist/index.js",
@@ -28,5 +28,9 @@
     "sirv-cli": "^1.0.0"
   },
   "license": "MIT",
-  "keywords":["typing animated", "animate typing", "type animation"]
+  "keywords":["typing animated", "animate typing", "type animation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2705srinivas/svelte-typing-animated.git"
+}
 }
